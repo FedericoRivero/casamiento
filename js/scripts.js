@@ -62,7 +62,7 @@ contactForm.addEventListener('submit', async (e) => {
 
     try {
         // throw new Error('Formulario enviado');
-        await fetch('https://sheet.best/api/sheets/fabb4c78-e8d4-4a56-8c4c-b553d9f0012c', {
+        await fetch('https://sheet.best/api/sheets/b6ecd83e-0cf2-453d-9ba4-b8c5b97bdae2', {
             method: 'POST',
             mode: 'cors',
             headers: {
